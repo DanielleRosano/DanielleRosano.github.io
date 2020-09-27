@@ -13,5 +13,5 @@ Below is an infographic showing the percentages of undergraduate enrollment in e
 
 # Covid-19 in Bethlehem, Pennsylvania Infographic:
 
-This infographic below displays the coronavirus cases and deaths within Pennssylvania, Lehigh county, and Northampton county, which the city of Bethlehem is located. It compares the number of cases and deaths in each subsection of Pennsylvania. Clearly, there are more cases and fatalities in Lehigh County than Northampton county.
+This infographic below displays the coronavirus cases and deaths within Pennssylvania, Lehigh county, and Northampton county, which are the counties that the city of Bethlehem consists of. This model compares the number of cases and deaths in each subsection of Pennsylvania. Clearly, there are more cases and fatalities in Lehigh County than Northampton county. This data came from the city of Bethlehem's official website, which has a section dedicated to Coronavirus and the data that comes along with it. The direct link to the data is https://bethlehem-pa.maps.arcgis.com/apps/opsdashboard/index.html#/05299d6e930643ef8d507ac2f61cf9d6, but the city's website with other coronavirus information is https://www.bethlehem-pa.gov/Health-Bureau/Communicable-Diseases/COVID-19.
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/CoronavirusPA.png?raw=true)
