@@ -11,3 +11,5 @@ Below is an infographic showing the percentages of undergraduate enrollment in e
 # Lehigh Student Enrollment Infographic
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/canva.png?raw=true)
+
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/CoronavirusPA.png?raw=true)
