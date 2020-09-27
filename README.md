@@ -8,11 +8,11 @@ Hi, my name is Danielle Rosano and I am from Northern New Jersey. I am a freshma
 
 Below is an infographic showing the percentages of undergraduate enrollment in each of the colleges at Lehigh University in 2019.
 
-# Lehigh Student Enrollment Infographic
+# Lehigh Student Enrollment Infographic:
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/canva.png?raw=true)
 
-#FF0000 Covid-19 in Bethlehem, Pennsylvania Infographic
+# Covid-19 in Bethlehem, Pennsylvania Infographic:
 
 This infographic below displays the coronavirus cases and deaths within Pennssylvania, Lehigh county, and Northampton county, which the city of Bethlehem is located. It compares the number of cases and deaths in each subsection of Pennsylvania. Clearly, there are more cases and fatalities in Lehigh County than Northampton county.
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/CoronavirusPA.png?raw=true)
