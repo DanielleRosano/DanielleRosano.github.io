@@ -17,4 +17,4 @@ This infographic below displays the coronavirus cases and deaths within Pennsylv
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/CoronavirusPA.png?raw=true)
 
 # Lehigh-Lafayette Rivalry Timeline
-(https://docs.google.com/spreadsheets/d/1tzIm19ZPFGeuNgMvH-zup0Yn6ZuDq6-vNQwF80rhlU8/edit#gid=0)
+https://docs.google.com/spreadsheets/d/1tzIm19ZPFGeuNgMvH-zup0Yn6ZuDq6-vNQwF80rhlU8/edit#gid=0
