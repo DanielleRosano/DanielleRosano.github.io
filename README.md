@@ -18,4 +18,5 @@ This infographic below displays the coronavirus cases and deaths within Pennsylv
 
 # Lehigh-Lafayette Rivalry Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1tzIm19ZPFGeuNgMvH-zup0Yn6ZuDq6-vNQwF80rhlU8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
+# Ariana Grande Career Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GYG4NcN2Pqzeop_Cqu-a8Fkz2PYMwe8z8Ww8UVnYlDc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
