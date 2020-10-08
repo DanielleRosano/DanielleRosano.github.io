@@ -19,6 +19,9 @@ This infographic below displays the coronavirus cases and deaths within Pennsylv
 # Lehigh-Lafayette Rivalry Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1tzIm19ZPFGeuNgMvH-zup0Yn6ZuDq6-vNQwF80rhlU8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 # Ariana Grande Career Timeline
+Ariana Grande is 27 years old and is one of the most famous singers of our generation. She has been acting and singing since she was a child and has had great success throughout her career. She has been on various TV shows and has released a total of 5 studio albums, as well as being featured on several others.
+Ariana Grande is one of my favorite singers, and personally I think she is one of the best singers of our generation. I have been a fan of her for years and have always loved her work in both the acting world and music industry. She has been very successful in her career and has been recognized in various ways, so it was hard to narrow down the main events in her career for this timeline. I managed to narrow it down to 10 main events however there are obviously many other significant events that have happened throughout her career.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GYG4NcN2Pqzeop_Cqu-a8Fkz2PYMwe8z8Ww8UVnYlDc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 # Lehigh Undergrad Enrollment 2019
 This bar chart shows the distribution of undergraduate enrollment in each of the colleges at Lehigh in 2019. This information is from the Office of Institutional Research & Strategic Analytics.
