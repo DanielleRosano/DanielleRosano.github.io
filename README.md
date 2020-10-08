@@ -20,3 +20,6 @@ This infographic below displays the coronavirus cases and deaths within Pennsylv
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1tzIm19ZPFGeuNgMvH-zup0Yn6ZuDq6-vNQwF80rhlU8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 # Ariana Grande Career Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GYG4NcN2Pqzeop_Cqu-a8Fkz2PYMwe8z8Ww8UVnYlDc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+# Lehigh Undergrad Enrollment 2019
+This bar chart shows the distribution of undergraduate enrollment in each of the colleges at Lehigh in 2019. This information is from the Office of Institutional Research & Strategic Analytics.
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/EnrollmentChart.png?raw=true)
