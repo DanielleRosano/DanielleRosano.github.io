@@ -2,7 +2,8 @@
 
 # Welcome to my GitHub page!😊
 Hi, my name is Danielle Rosano and I am from Northern New Jersey. I am a freshman studying Psychology here at Lehigh University in the College of Arts and Sciences. I decided to take Intro to Data Journalism as my seminar this year and I am super excited about it. I find using data to tell a story to be interesting and efficient and I am excited to learn more about it! I have no experience with coding but I hope to learn more using GitHub. 
-My instagram is linked [here](https://www.instagram.com/daniellerosano/)
+
+My instagram can be found [here](https://www.instagram.com/daniellerosano/).
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/Screen%20Shot%202020-09-17%20at%202.38.04%20PM.png?raw=true)
 
