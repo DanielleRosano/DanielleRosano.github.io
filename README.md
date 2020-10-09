@@ -5,9 +5,8 @@ Hi, my name is Danielle Rosano and I am from Northern New Jersey. I am a freshma
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/Screen%20Shot%202020-09-17%20at%202.38.04%20PM.png?raw=true)
 
-Below is an infographic showing the percentages of undergraduate enrollment in each of the colleges at Lehigh University in 2019.
-
 # Lehigh Student Enrollment Infographic:
+Below is an infographic showing the percentages of undergraduate enrollment in each of the colleges at Lehigh University in 2019.
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/canva.png?raw=true)
 
