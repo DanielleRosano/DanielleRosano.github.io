@@ -28,4 +28,4 @@ This bar chart shows the distribution of undergraduate enrollment in each of the
 
 ## Spotify's Top Songs 2019
 The bar chart below shows the most streamed songs on Spotify in 2019.
-![chart](
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/topsongs.png?raw=true)
