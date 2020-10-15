@@ -29,3 +29,7 @@ This bar chart shows the distribution of undergraduate enrollment in each of the
 # Spotify's Top Songs 2019
 The bar chart below shows the top 5 most streamed songs on Spotify in 2019. To demonstrate the number of streams, the numbers are divided by 1 million to easily understand the amount for each song and to easily compare them. The information is from an article by Forbes, which lists the most streamed artists, albums, and songs in 2019 on Spotify. I collected the data about the most streamed songs and put them into a spreadsheet that I then created into a bar chart as seen below.
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/topsongs.png?raw=true)
+
+# Lehigh's College Enrollment 2015-2019
+The chart below shows the change over the years in percentage of enrollment in the three colleges of Arts and Sciences, Business, and Engineering.
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/lehighenrollment.png?raw=true)
