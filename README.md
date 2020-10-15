@@ -35,4 +35,4 @@ The chart below shows the change over the years in percentage of enrollment in t
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/lehighenrollment.png?raw=true)
 
 # Life Satisfaction and GDP Per Capita
-![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/scatterplotpractice.png?raw=true)
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/scatterplot.png?raw=true)
