@@ -33,3 +33,6 @@ The bar chart below shows the top 5 most streamed songs on Spotify in 2019. To d
 # Lehigh's College Enrollment 2015-2019
 The chart below shows the change over the years in percentage of enrollment in the three colleges of Arts and Sciences, Business, and Engineering. This information was collected from Lehigh's Office of Institutional Research and Strategic Analytics.
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/lehighenrollment.png?raw=true)
+
+# Life Satisfaction and GDP Per Capita
+![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/scatterplotpractice.png?raw=true)
