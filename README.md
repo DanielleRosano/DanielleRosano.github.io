@@ -5,6 +5,9 @@ Hi, my name is Danielle Rosano and I am from Northern New Jersey. I am a freshma
 
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/Screen%20Shot%202020-09-17%20at%202.38.04%20PM.png?raw=true)
 
+# My Pixton Introduction Comic
+![Comic](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/Screen%20Shot%202020-11-19%20at%203.18.29%20PM.png?raw=true)
+
 # Lehigh Student Enrollment Infographic:
 Below is an infographic showing the percentages of undergraduate enrollment in each of the colleges at Lehigh University in 2019.
 
@@ -63,5 +66,3 @@ In the interactive data visualization below, there are two graphics with informa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AI_ucQ68hrM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# My Pixton Introduction Comic
-![Comic](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/Screen%20Shot%202020-11-19%20at%203.18.29%20PM.png?raw=true)
