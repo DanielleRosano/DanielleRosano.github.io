@@ -37,12 +37,6 @@ The bar chart below shows the top 5 most streamed songs on Spotify in 2019. To d
 The chart below shows the change over the years in percentage of enrollment in the three colleges of Arts and Sciences, Business, and Engineering. This information was collected from Lehigh's Office of Institutional Research and Strategic Analytics.
 ![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/lehighenrollment.png?raw=true)
 
-# Life Satisfaction and GDP Per Capita
-![chart](https://github.com/DanielleRosano/DanielleRosano.github.io/blob/master/scatterplot.png?raw=true)
-
-# 2019 World's Top 20 Cycling Cities
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15Q5GPb6AqD0sYeojbyjlvvTaDI6nL0rs" width="640" height="480"></iframe>
-
 # Top 7 Music Capitals of the World
 The map below shows the top 7 music capitals in the world, which are London UK, Nashville TN, Vienna AUT, New Orleans LA, Memphis TN, Austin TX, and Berlin, Germany. This information is according to a travelling company site, [Avoya.](https://www.avoyatravel.com/blog/top-7-music-cities-in-the-world-104281/) These locations are home to some of the most influential musicians in history, including Beethoven and Mozart. They each have different cultures and different types of music that make them unique. This map was created and customized using Google My Maps. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1o_N8on60wJC8r3YH2B65GM6RyV2Cb8DC" width="640" height="480"></iframe>
